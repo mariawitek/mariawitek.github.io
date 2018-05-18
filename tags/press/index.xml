@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Press on Dr Maria Witek</title>
+    <link>https://mariawitek.github.io/tags/press/</link>
+    <description>Recent content in Press on Dr Maria Witek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 12 May 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://mariawitek.github.io/tags/press/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upcoming interview on BBC Radio 3</title>
+      <link>https://mariawitek.github.io/post/tomservice/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://mariawitek.github.io/post/tomservice/</guid>
+      <description>On May 20th 5pm, I&amp;rsquo;ll be on BBC Radio 3&amp;rsquo;s Listening Service talking to Tom Service about why syncopated music makes people want to move. Tune in! If you miss the broadcast, you can also listen to it as a podcast shortly after.</description>
+    </item>
+    
+  </channel>
+</rss>
