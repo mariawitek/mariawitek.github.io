@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Dr Maria Witek</title>
-    <link>https://mariawitek.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Dr Maria Witek</description>
+    <title>1 on Maria Witek, DPhil</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Maria Witek, DPhil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 01 Dec 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mariawitek.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Groove experience: Emotional and physiological responses to groove-based music</title>
-      <link>https://mariawitek.github.io/publication/icmpc_2009/</link>
+      <link>/publication/icmpc_2009/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/icmpc_2009/</guid>
+      <guid>/publication/icmpc_2009/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

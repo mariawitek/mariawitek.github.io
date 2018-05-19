@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dr Maria Witek on Dr Maria Witek</title>
-    <link>https://mariawitek.github.io/</link>
-    <description>Recent content in Dr Maria Witek on Dr Maria Witek</description>
+    <title>Maria Witek, DPhil on Maria Witek, DPhil</title>
+    <link>/</link>
+    <description>Recent content in Maria Witek, DPhil on Maria Witek, DPhil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,89 +11,80 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>hello-world.Rmd</title>
-      <link>https://mariawitek.github.io/post/hello-world-rmd/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mariawitek.github.io/post/hello-world-rmd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Upcoming interview on BBC Radio 3</title>
-      <link>https://mariawitek.github.io/post/tomservice/</link>
+      <link>/post/tomservice/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mariawitek.github.io/post/tomservice/</guid>
+      <guid>/post/tomservice/</guid>
       <description>&lt;p&gt;On May 20th 5pm, I&amp;rsquo;ll be on BBC Radio 3&amp;rsquo;s &lt;a href=&#34;https://www.bbc.co.uk/programmes/b0b3w77z&#34; target=&#34;_blank&#34;&gt;Listening Service&lt;/a&gt; talking to Tom Service about why syncopated music makes people want to move. Tune in! If you miss the broadcast, you can also listen to it as a podcast shortly after.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Extended Mind, Vibe and Dance Music Consciousness</title>
-      <link>https://mariawitek.github.io/talk/noospherics/</link>
+      <link>/talk/noospherics/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mariawitek.github.io/talk/noospherics/</guid>
+      <guid>/talk/noospherics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Now you hear it: a predictive coding model for understanding rhythmic incongruity</title>
-      <link>https://mariawitek.github.io/publication/nyas_2018/</link>
+      <link>/publication/nyas_2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/nyas_2018/</guid>
+      <guid>/publication/nyas_2018/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comment on Solberg and Jensenius: The temporal dynamics of embodied pleasure in music</title>
-      <link>https://mariawitek.github.io/publication/emr_2017/</link>
+      <link>/publication/emr_2017/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/emr_2017/</guid>
+      <guid>/publication/emr_2017/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Filling in: Syncopation, pleasure and distributed embodiment in groove</title>
-      <link>https://mariawitek.github.io/publication/ma_2017/</link>
+      <link>/publication/ma_2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/ma_2017/</guid>
+      <guid>/publication/ma_2017/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Syncopation affects free body‑movement in musical groove</title>
-      <link>https://mariawitek.github.io/publication/exbr_2017/</link>
+      <link>/publication/exbr_2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/exbr_2017/</guid>
+      <guid>/publication/exbr_2017/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Oxytocin improves synchronisation in leader-follower interaction</title>
-      <link>https://mariawitek.github.io/publication/sr_2016/</link>
+      <link>/publication/sr_2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/sr_2016/</guid>
+      <guid>/publication/sr_2016/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://mariawitek.github.io/project/deep-learning/</link>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://mariawitek.github.io/project/deep-learning/</guid>
+      <guid>/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -108,59 +99,69 @@
     
     <item>
       <title>External Project</title>
-      <link>https://mariawitek.github.io/project/example-external-project/</link>
+      <link>/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://mariawitek.github.io/project/example-external-project/</guid>
+      <guid>/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Musical rhythm and affect: Comment on &#39;The quartet theory of human emotions: Anintegrativeand neurofunctional model&#39; by S.Koelsch et al.</title>
-      <link>https://mariawitek.github.io/publication/plr_2015/</link>
+      <link>/publication/plr_2015/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/plr_2015/</guid>
+      <guid>/publication/plr_2015/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Effeccts of polyphonic context, instrumentation, and metrical location on syncopation in music</title>
-      <link>https://mariawitek.github.io/publication/mp_2014/</link>
+      <link>/publication/mp_2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/mp_2014/</guid>
+      <guid>/publication/mp_2014/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neural underpinnings of music: The polyrhythmic brain</title>
-      <link>https://mariawitek.github.io/publication/springer_2014/</link>
+      <link>/publication/springer_2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/springer_2014/</guid>
+      <guid>/publication/springer_2014/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rhythmic complexity and predictive coding: A novel approach to modeling rhythm and meter perception in music</title>
-      <link>https://mariawitek.github.io/publication/front_2014/</link>
+      <link>/publication/front_2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/front_2014/</guid>
+      <guid>/publication/front_2014/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Syncopation, body-movement and pleasure in groove music</title>
-      <link>https://mariawitek.github.io/publication/plos_2014/</link>
+      <link>/publication/plos_2014/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/plos_2014/</guid>
+      <guid>/publication/plos_2014/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Groove experience: Emotional and physiological responses to groove-based music</title>
+      <link>/publication/icmpc_2009/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/icmpc_2009/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

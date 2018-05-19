@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6 on Dr Maria Witek</title>
-    <link>https://mariawitek.github.io/publication_types/6/</link>
-    <description>Recent content in 6 on Dr Maria Witek</description>
+    <title>6 on Maria Witek, DPhil</title>
+    <link>/publication_types/6/</link>
+    <description>Recent content in 6 on Maria Witek, DPhil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mariawitek.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neural underpinnings of music: The polyrhythmic brain</title>
-      <link>https://mariawitek.github.io/publication/springer_2014/</link>
+      <link>/publication/springer_2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/springer_2014/</guid>
+      <guid>/publication/springer_2014/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Rhythmic complexity and predictive coding: A novel approach to modeling rhythm and meter perception in music</title>
-      <link>https://mariawitek.github.io/publication/front_2014/</link>
+      <link>/publication/front_2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mariawitek.github.io/publication/front_2014/</guid>
+      <guid>/publication/front_2014/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
