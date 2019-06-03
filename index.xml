@@ -11,6 +11,45 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Interview in Elemental about music listening for concentration</title>
+      <link>/post/elemental/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/elemental/</guid>
+      <description>&lt;p&gt;Earlier this month, I spoke with a journalist at &lt;a href=&#34;https://elemental.medium.com/do-productivity-playlists-actually-work-6d362bd23bf7&#34; target=&#34;_blank&#34;&gt;Elemental&lt;/a&gt; (published by Medium), about the extent to which music can help concentration during study and work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Musical groove: Pleasure, movement and embodied neuroscience</title>
+      <link>/talk/western/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/western/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feeling at one: Socio-affective distribution, vibe, and dance music consciousness</title>
+      <link>/publication/oup_2019/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/oup_2019/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The sensation of groove is affected by the interaction of rhythmic and harmonic complexity</title>
+      <link>/publication/plos_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/plos_2019/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Musical groove: Effects on pleasure, body-movement and the brain</title>
       <link>/talk/durhamsymposium/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
@@ -121,46 +160,6 @@
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
       <guid>/publication/plr_2015/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Effeccts of polyphonic context, instrumentation, and metrical location on syncopation in music</title>
-      <link>/publication/mp_2014/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mp_2014/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Neural underpinnings of music: The polyrhythmic brain</title>
-      <link>/publication/springer_2014/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/springer_2014/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rhythmic complexity and predictive coding: A novel approach to modeling rhythm and meter perception in music</title>
-      <link>/publication/front_2014/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/front_2014/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Syncopation, body-movement and pleasure in groove music</title>
-      <link>/publication/plos_2014/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/plos_2014/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
