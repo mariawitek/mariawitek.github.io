@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Livecodings on Maria Witek, DPhil</title>
+    <link>/livecoding/</link>
+    <description>Recent content in Livecodings on Maria Witek, DPhil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/livecoding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coventry Algorave</title>
+      <link>/livecoding/b_coventry_2019/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/livecoding/b_coventry_2019/</guid>
+      <description>At Coventry&amp;rsquo;s first ever Algorave, on July 16th 2019 at the Herbert Art Gallery and Museum, Antonio Roberts (hellocatfood) and I (mxwx) live coded music collaboratively using Troop and TidalCycles, with Carol Breen (imagemover) on visuals. This was my first ever public live coding/algorave performance. We performed among other excellent live coders, Lucy Cheesman (Heavy Lifting) and Innocent.</description>
+    </item>
+    
+    <item>
+      <title>ICLC Algorave Limerick</title>
+      <link>/livecoding/a_limerick_2020/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/livecoding/a_limerick_2020/</guid>
+      <description>Another great experience live coding as mxwx collaboratively with Antonio Roberts (hellocatfood), using Troop and TidalCycles. The Algorave was on the last evening of the International Conference for Live Coding (ICLC) in Limerick, Ireland, February 7th 2020. So many excellent performances that night! You can catch the archived live stream of the event here.</description>
+    </item>
+    
+  </channel>
+</rss>
