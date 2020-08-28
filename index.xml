@@ -11,12 +11,40 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A critical cross-cultural study of sensorimotor and groove responses to syncopation among Ghanaian and American university students and staff</title>
-      <link>/publication/mp_2020/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0100</pubDate>
+      <title>Cultural familiarity and individual musical taste different affect social bonding when moving to music</title>
+      <link>/publication/sr_2020/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0100</pubDate>
       
-      <guid>/publication/mp_2020/</guid>
+      <guid>/publication/sr_2020/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feeling at one: Socio-affective distribution and vibe in electronic dance music</title>
+      <link>/talk/humboldt/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/humboldt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New SoundCloud</title>
+      <link>/livecoding/soundcloud_2020/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/livecoding/soundcloud_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR Algorave at Network Music Festival</title>
+      <link>/livecoding/c_nmf_2020/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/livecoding/c_nmf_2020/</guid>
+      <description>&lt;p&gt;Since the global lockdown due to the coronavirus pandemic, many music events have had to move their performances online. The Network Music Festival is an event that has been organinsing online music events for years! It was a real treat to play at their VR algorave, hosted in a cyber wearhouse and co-organised by Toplap Berlin. Antonio (hellocatfood) and I (mxwx) played some brand new stuff using TidalCycles, accompanied by some glithy furry visuals made in Pure Data and Gem by Patrick Valiquet (The Animalizer). Link to recording coming soon.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,6 +55,26 @@
       
       <guid>/publication/neurim_2020/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A critical cross-cultural study of sensorimotor and groove responses to syncopation among Ghanaian and American university students and staff</title>
+      <link>/publication/mp_2020/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/mp_2020/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eulerroom Equinox Live Stream</title>
+      <link>/livecoding/d_eul_2020/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/livecoding/d_eul_2020/</guid>
+      <description>&lt;p&gt;March 2020 was the month that many people around the world went into lockdown due to the global COVID-19 pandemic. It was a stressfull time, and I didn&amp;rsquo;t know when I&amp;rsquo;d get to see my friends and family again. Just by coincidence, the live-coding community were hosting an online event; The Eulerroom Equinox Live Stream. Social distancing felt a little less depressing when I could watch my friends and colleagues make incredible music and visuals on the stream. Antonio Roberts (hellocatfood) and I (mxwx) played a 15 minute set with TidalCycles, and Patrick Valiquet (The Animalizer) made ace visuals in Pure Data and Gem. You can watch a recording of it here: &lt;a href=&#34;https://www.youtube.com/watch?v=4tZOJQTNuZA&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/watch?v=4tZOJQTNuZA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -103,54 +151,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/plos_2019/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Musical groove: Effects on pleasure, body-movement and the brain</title>
-      <link>/talk/durhamsymposium/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/durhamsymposium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Upcoming interview on BBC Radio 3</title>
-      <link>/post/tomservice/</link>
-      <pubDate>Sat, 12 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/post/tomservice/</guid>
-      <description>&lt;p&gt;On May 20th 5pm, I&amp;rsquo;ll be on BBC Radio 3&amp;rsquo;s &lt;a href=&#34;https://www.bbc.co.uk/programmes/b0b3w77z&#34; target=&#34;_blank&#34;&gt;Listening Service&lt;/a&gt; talking to Tom Service about why syncopated music makes people want to move. Tune in! If you miss the broadcast, you can also listen to it as a podcast shortly after.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Extended Mind, Vibe and Dance Music Consciousness</title>
-      <link>/talk/noospherics/</link>
-      <pubDate>Sun, 22 Apr 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/noospherics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Now you hear it: a predictive coding model for understanding rhythmic incongruity</title>
-      <link>/publication/nyas_2018/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/nyas_2018/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comment on Solberg and Jensenius: The temporal dynamics of embodied pleasure in music</title>
-      <link>/publication/emr_2017/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/emr_2017/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

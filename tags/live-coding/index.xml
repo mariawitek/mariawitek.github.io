@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/live-coding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New SoundCloud</title>
+      <link>/livecoding/soundcloud_2020/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/livecoding/soundcloud_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR Algorave at Network Music Festival</title>
+      <link>/livecoding/c_nmf_2020/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/livecoding/c_nmf_2020/</guid>
+      <description>Since the global lockdown due to the coronavirus pandemic, many music events have had to move their performances online. The Network Music Festival is an event that has been organinsing online music events for years! It was a real treat to play at their VR algorave, hosted in a cyber wearhouse and co-organised by Toplap Berlin. Antonio (hellocatfood) and I (mxwx) played some brand new stuff using TidalCycles, accompanied by some glithy furry visuals made in Pure Data and Gem by Patrick Valiquet (The Animalizer).</description>
+    </item>
+    
+    <item>
+      <title>Eulerroom Equinox Live Stream</title>
+      <link>/livecoding/d_eul_2020/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/livecoding/d_eul_2020/</guid>
+      <description>March 2020 was the month that many people around the world went into lockdown due to the global COVID-19 pandemic. It was a stressfull time, and I didn&amp;rsquo;t know when I&amp;rsquo;d get to see my friends and family again. Just by coincidence, the live-coding community were hosting an online event; The Eulerroom Equinox Live Stream. Social distancing felt a little less depressing when I could watch my friends and colleagues make incredible music and visuals on the stream.</description>
+    </item>
     
     <item>
       <title>Coventry Algorave</title>
